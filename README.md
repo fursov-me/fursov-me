@@ -4,17 +4,13 @@ Product Builder • Entrepreneur • Software Developer
 
 Building products, services and online businesses since 2009.
 
-## Journey
+## About
 
-* 2003 — Got my first PC and became interested in building things, not just using them.
-* 2003–2009 — Earned my first money through small local jobs and sales.
-* 2009 — First digital sales through Digiseller, started programming with VB, C# and PHP.
-* 2013–2014 — Built GodKey, a digital game key store.
-* 2015–2016 — Built and scaled G2Case using Erlang for high-load backend services.
-* 2016–2023 — Entrepreneurial experience in retail sales, operations and food service management.
-* 2020 — Experimented with Arduino and IoT systems.
-* 2020–2021 — Studied Vue, Svelte, Deno, Elixir and Phoenix.
-* Present — Exploring AI-powered products and modern web technologies.
+I got my first PC as a kid and quickly became interested in building things instead of just using them.
+My journey started with small local jobs, early digital sales through Digiseller, and learning programming with Visual Basic, C# and PHP.
+Over the years I built online stores, digital goods marketplaces and high-load services, including g2case.com powered by Erlang.
+Beyond software development, I gained hands-on experience in sales, business operations and customer-facing industries, which shaped my approach to building products.
+I enjoy exploring new technologies, from IoT and automation to AI-powered applications, and I'm always interested in creating useful products that solve real problems.
 
 ## Product Experiments
 
