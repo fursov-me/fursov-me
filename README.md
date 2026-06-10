@@ -16,6 +16,12 @@ Building products, services and online businesses since 2009.
 * 2020–2021 — Studied Vue, Svelte, Deno, Elixir and Phoenix.
 * Present — Exploring AI-powered products and modern web technologies.
 
+## Product Experiments
+
+* Penny Auction Platform (2015)
+* Daily Fantasy Sports Research (2015)
+* Digital Goods Marketplaces
+
 ## Technologies
 
 PHP • JavaScript • Erlang • Vue • Svelte • PostgreSQL • MySQL • Linux • Docker • AI • IoT • E-commerce
